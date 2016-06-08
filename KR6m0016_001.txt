@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:24.096573
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 廣百論疏卷第一
 #+PROPERTY: CBETA_ID T85n2800
 #+PROPERTY: ID KR6m0016
@@ -14,7 +14,7 @@
 ¶
 No.2800[cf.No.1571]¶
 
-序
+* 序
 :PROPERTIES:
 :head: 廣百論疏卷第一
 :END:
