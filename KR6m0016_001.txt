@@ -1,24 +1,20 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:53:24.096573
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:53
 #+TITLE: 廣百論疏卷第一
 #+PROPERTY: CBETA_ID T85n2800
 #+PROPERTY: ID KR6m0016
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2800
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6m0016_T_000-0782b>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6m0016_T_001-0782b> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2800[cf.No.1571]¶
+No. 2800 [cf. No. 1571]¶
 
-序
-:PROPERTIES:
-:head: 廣百論疏卷第一
-:END:
-¶
+* 廣百論疏卷第一¶
 ¶
 
 凡佛品章文理復隱末學凝滯尚困蒙泉爰¶
@@ -36,8 +32,7 @@ No.2800[cf.No.1571]¶
 懷於一序耳。¶
 ¶
 ¶
-
- 廣百論疏卷第一¶
+廣百論疏卷第一¶
 ¶
 西明寺沙門文軌撰¶
 
@@ -70,7 +65,7 @@ No.2800[cf.No.1571]¶
 路。此則言百論。為欲顯多非謂數唯有百。其¶
 猶百王不易百味食等。然此百論之上並置¶
 別名。如舊百論名經百論。以長行直說名修¶
-多羅故。故彼論云修妬路。修妬路者即是經¶
+多羅故。故彼論云修始路。修始路者即是經¶
 也。舊云。論有百偈故以百為名。此論有二十¶
 品品各五偈。後十品無益此立故不翻者此¶
 謬也。檢尋梵本但有十品。又此論有八品。品¶
